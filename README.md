@@ -7,7 +7,7 @@ Make sure you have nodejs installed, if not [download from here](https://nodejs.
 ### Installation
 In the project directory
 1. Run ``` npm install ``` or ``` yarn install ```
-2. To run the app on development server run ``` npm run electron-dev ```
+2. To run the app on development server run ``` npm start ``` to start react server then run  ``` npm run electron-dev ``` to open electron app on that server
 3. To create production build run ``` npm run electron-pack ```
 4. To install the application on desktop open the ./dist folder and run .exe file
 
